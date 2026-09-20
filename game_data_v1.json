@@ -1,0 +1,1101 @@
+{
+  "schemaVersion": 1,
+  "contentVersion": 1,
+  "languages": {
+    "en": {
+      "wordCardGames": {
+        "g1": [
+          {
+            "w": "Apple",
+            "h": "Fruit"
+          },
+          {
+            "w": "Airplane",
+            "h": "Transport"
+          },
+          {
+            "w": "Pizza",
+            "h": "Food"
+          },
+          {
+            "w": "Guitar",
+            "h": "Instrument"
+          },
+          {
+            "w": "Soccer",
+            "h": "Sport"
+          },
+          {
+            "w": "Elephant",
+            "h": "Animal"
+          },
+          {
+            "w": "Beach",
+            "h": "Vacation"
+          },
+          {
+            "w": "Doctor",
+            "h": "Hospital"
+          },
+          {
+            "w": "Coffee",
+            "h": "Drink"
+          },
+          {
+            "w": "Castle",
+            "h": "Building"
+          },
+          {
+            "w": "Astronaut",
+            "h": "Space"
+          },
+          {
+            "w": "Submarine",
+            "h": "Ocean"
+          },
+          {
+            "w": "Bicycle",
+            "h": "Vehicle"
+          },
+          {
+            "w": "Cinema",
+            "h": "Entertainment"
+          },
+          {
+            "w": "Desert",
+            "h": "Nature"
+          }
+        ],
+        "g2": [
+          {
+            "w": "Hospital",
+            "h": "White coats and stethoscopes"
+          },
+          {
+            "w": "Airport",
+            "h": "Passports, luggage, and gates"
+          },
+          {
+            "w": "School",
+            "h": "Desks, chalkboards, and bells"
+          },
+          {
+            "w": "Restaurant",
+            "h": "Menus, waiters, and kitchen"
+          },
+          {
+            "w": "Submarine",
+            "h": "Deep under the sea"
+          },
+          {
+            "w": "Hotel",
+            "h": "Lobby, keycards, and room service"
+          },
+          {
+            "w": "Cinema",
+            "h": "Popcorn, big screen, and dark room"
+          },
+          {
+            "w": "Space Station",
+            "h": "Zero gravity in orbit"
+          },
+          {
+            "w": "Bank",
+            "h": "Vaults, tellers, and ATMs"
+          },
+          {
+            "w": "Police Station",
+            "h": "Badges, sirens, and holding cells"
+          },
+          {
+            "w": "Beach",
+            "h": "Sand, umbrellas, and ocean waves"
+          },
+          {
+            "w": "Gym",
+            "h": "Weights, dumbbells, and treadmills"
+          }
+        ],
+        "g3": [
+          {
+            "w": "Swimming",
+            "h": "Sport"
+          },
+          {
+            "w": "Playing Guitar",
+            "h": "Music"
+          },
+          {
+            "w": "Superhero",
+            "h": "Character"
+          },
+          {
+            "w": "Kangaroo",
+            "h": "Animal"
+          },
+          {
+            "w": "Eating Spaghetti",
+            "h": "Activity"
+          },
+          {
+            "w": "Washing a Dog",
+            "h": "Chore"
+          },
+          {
+            "w": "Rock Climbing",
+            "h": "Sport"
+          },
+          {
+            "w": "Driving a Bus",
+            "h": "Job"
+          },
+          {
+            "w": "Moonwalk",
+            "h": "Dance"
+          },
+          {
+            "w": "Sumo Wrestling",
+            "h": "Sport"
+          },
+          {
+            "w": "Fishing",
+            "h": "Hobby"
+          },
+          {
+            "w": "Making Pizza",
+            "h": "Cooking"
+          }
+        ],
+        "g11": [
+          {
+            "w": "Cat",
+            "h": "Dog"
+          },
+          {
+            "w": "Coffee",
+            "h": "Tea"
+          },
+          {
+            "w": "Car",
+            "h": "Bicycle"
+          },
+          {
+            "w": "Summer",
+            "h": "Winter"
+          },
+          {
+            "w": "Pizza",
+            "h": "Burger"
+          },
+          {
+            "w": "Guitar",
+            "h": "Violin"
+          },
+          {
+            "w": "Sun",
+            "h": "Moon"
+          },
+          {
+            "w": "Book",
+            "h": "Kindle"
+          }
+        ]
+      },
+      "stringListGames": {
+        "g4": [
+          "Animals",
+          "Countries",
+          "Foods",
+          "Movies",
+          "Celebrities",
+          "Brands",
+          "Cities",
+          "Jobs",
+          "Fruits",
+          "Sports",
+          "Things in a Kitchen",
+          "Clothing"
+        ],
+        "g10": [
+          "ING",
+          "ST",
+          "AN",
+          "ED",
+          "OR",
+          "AR",
+          "UN",
+          "EX",
+          "RE",
+          "TR",
+          "BL",
+          "CH",
+          "SH",
+          "TH",
+          "PL"
+        ],
+        "g12": [
+          "Doctor",
+          "Astronaut",
+          "Detective",
+          "Chef",
+          "Pirate",
+          "Superhero",
+          "Rockstar",
+          "Pilot",
+          "Wizard",
+          "Ninja",
+          "Scientist",
+          "Firefighter"
+        ],
+        "g15": [
+          "Get someone to give you a high-five 3 times.",
+          "Say 'obviously' at least 5 times in conversation.",
+          "Yawn and make at least 2 other people yawn after you.",
+          "Laugh loudly at a joke that wasn't funny at all.",
+          "Compliment 3 different people on their shoes.",
+          "Convince someone that tomorrow is an official public holiday."
+        ]
+      },
+      "tabooCards": [
+        {
+          "target": "PIZZA",
+          "taboos": [
+            "Cheese",
+            "Crust",
+            "Italian",
+            "Slice",
+            "Pepperoni"
+          ]
+        },
+        {
+          "target": "AIRPLANE",
+          "taboos": [
+            "Fly",
+            "Airport",
+            "Wings",
+            "Pilot",
+            "Sky"
+          ]
+        },
+        {
+          "target": "BEACH",
+          "taboos": [
+            "Sand",
+            "Ocean",
+            "Sun",
+            "Swim",
+            "Vacation"
+          ]
+        },
+        {
+          "target": "COFFEE",
+          "taboos": [
+            "Drink",
+            "Caffeine",
+            "Morning",
+            "Mug",
+            "Hot"
+          ]
+        },
+        {
+          "target": "DOCTOR",
+          "taboos": [
+            "Hospital",
+            "Sick",
+            "Medicine",
+            "Nurse",
+            "Health"
+          ]
+        }
+      ],
+      "triviaItems": [
+        {
+          "question": "Height of Mount Everest in meters",
+          "answer": 8848.0,
+          "unit": "m"
+        },
+        {
+          "question": "Number of bones in the adult human body",
+          "answer": 206.0,
+          "unit": "bones"
+        },
+        {
+          "question": "Year the Titanic sank",
+          "answer": 1912.0,
+          "unit": "year"
+        },
+        {
+          "question": "Number of keys on a standard piano",
+          "answer": 88.0,
+          "unit": "keys"
+        },
+        {
+          "question": "Number of countries in Africa",
+          "answer": 54.0,
+          "unit": "countries"
+        },
+        {
+          "question": "Boiling point of water in Celsius",
+          "answer": 100.0,
+          "unit": "°C"
+        },
+        {
+          "question": "Distance from Earth to Moon in thousand km",
+          "answer": 384.0,
+          "unit": "thousand km"
+        },
+        {
+          "question": "Average adult resting heart rate in bpm",
+          "answer": 72.0,
+          "unit": "bpm"
+        }
+      ],
+      "rulePairs": [
+        {
+          "t": "Must touch your chin before speaking",
+          "s": "Must touch your nose before speaking"
+        },
+        {
+          "t": "Must only ask questions",
+          "s": "Must only speak in 3-word sentences"
+        },
+        {
+          "t": "Must speak with a foreign accent",
+          "s": "Must whisper every second word"
+        },
+        {
+          "t": "Must agree with everything the previous person said",
+          "s": "Must disagree with everything said"
+        }
+      ]
+    },
+    "no": {
+      "wordCardGames": {
+        "g1": [
+          {
+            "w": "Eple",
+            "h": "Frukt"
+          },
+          {
+            "w": "Fly",
+            "h": "Transport"
+          },
+          {
+            "w": "Pizza",
+            "h": "Mat"
+          },
+          {
+            "w": "Gitar",
+            "h": "Instrument"
+          },
+          {
+            "w": "Fotball",
+            "h": "Sport"
+          },
+          {
+            "w": "Elefant",
+            "h": "Dyr"
+          },
+          {
+            "w": "Strand",
+            "h": "Ferie"
+          },
+          {
+            "w": "Lege",
+            "h": "Sykehus"
+          },
+          {
+            "w": "Kaffe",
+            "h": "Drikke"
+          },
+          {
+            "w": "Slott",
+            "h": "Bygning"
+          },
+          {
+            "w": "Romfarer",
+            "h": "Rommet"
+          },
+          {
+            "w": "Ubåt",
+            "h": "Havet"
+          },
+          {
+            "w": "Sykkel",
+            "h": "Kjøretøy"
+          },
+          {
+            "w": "Kino",
+            "h": "Underholdning"
+          },
+          {
+            "w": "Ørken",
+            "h": "Natur"
+          }
+        ],
+        "g2": [
+          {
+            "w": "Sykehus",
+            "h": "Hvite frakker og pasienter"
+          },
+          {
+            "w": "Flyplass",
+            "h": "Pass og rullebane"
+          },
+          {
+            "w": "Skole",
+            "h": "Klasserom og tavler"
+          },
+          {
+            "w": "Restaurant",
+            "h": "Menyer og servitører"
+          },
+          {
+            "w": "Ubåt",
+            "h": "Dypt under havoverflaten"
+          },
+          {
+            "w": "Hotell",
+            "h": "Resepsjon og nøkkelkort"
+          },
+          {
+            "w": "Kino",
+            "h": "Popkorn og kinolerret"
+          },
+          {
+            "w": "Romstasjon",
+            "h": "Vektløshet i bane rundt jorden"
+          },
+          {
+            "w": "Bank",
+            "h": "Hvelv og minibanker"
+          },
+          {
+            "w": "Politistasjon",
+            "h": "Celler og uniformer"
+          },
+          {
+            "w": "Strand",
+            "h": "Sand, bølger og sol"
+          },
+          {
+            "w": "Treningssenter",
+            "h": "Vekter og tredemøller"
+          }
+        ],
+        "g3": [
+          {
+            "w": "Svømming",
+            "h": "Sport"
+          },
+          {
+            "w": "Spille gitar",
+            "h": "Musikk"
+          },
+          {
+            "w": "Superhelt",
+            "h": "Karakter"
+          },
+          {
+            "w": "Kenguru",
+            "h": "Dyr"
+          },
+          {
+            "w": "Spise spaghetti",
+            "h": "Aktivitet"
+          },
+          {
+            "w": "Vaske en hund",
+            "h": "Handling"
+          },
+          {
+            "w": "Fjellklatring",
+            "h": "Sport"
+          },
+          {
+            "w": "Kjøre buss",
+            "h": "Handling"
+          },
+          {
+            "w": "Moonwalk",
+            "h": "Dans"
+          },
+          {
+            "w": "Sumobryting",
+            "h": "Sport"
+          },
+          {
+            "w": "Fiske",
+            "h": "Friluft"
+          },
+          {
+            "w": "Lage pizza",
+            "h": "Matlaging"
+          }
+        ],
+        "g11": [
+          {
+            "w": "Katt",
+            "h": "Hund"
+          },
+          {
+            "w": "Kaffe",
+            "h": "Te"
+          },
+          {
+            "w": "Bil",
+            "h": "Sykkel"
+          },
+          {
+            "w": "Sommer",
+            "h": "Vinter"
+          },
+          {
+            "w": "Pizza",
+            "h": "Burger"
+          },
+          {
+            "w": "Gitar",
+            "h": "Fiolin"
+          },
+          {
+            "w": "Sol",
+            "h": "Måne"
+          },
+          {
+            "w": "Bok",
+            "h": "Lydbok"
+          }
+        ]
+      },
+      "stringListGames": {
+        "g4": [
+          "Dyr",
+          "Land",
+          "Matretter",
+          "Filmer",
+          "Kjendiser",
+          "Merkevarer",
+          "Byer",
+          "Yrker",
+          "Frukter",
+          "Idretter",
+          "Ting på kjøkkenet",
+          "Klesplagg"
+        ],
+        "g10": [
+          "ING",
+          "ST",
+          "ER",
+          "SK",
+          "TR",
+          "BL",
+          "GR",
+          "KJ",
+          "SJ",
+          "SP",
+          "FL",
+          "KV",
+          "FOR",
+          "TIL"
+        ],
+        "g12": [
+          "Lege",
+          "Astronaut",
+          "Detektiv",
+          "Kokk",
+          "Pirat",
+          "Superhelt",
+          "Rockestjerne",
+          "Pilot",
+          "Trollmann",
+          "Ninja",
+          "Forsker",
+          "Brannkonstabel"
+        ],
+        "g15": [
+          "Få noen til å gi deg en high-five 3 ganger.",
+          "Si ordet 'åpenbart' minst 5 ganger i en samtale.",
+          "Gjesp og få minst 2 andre til å gjespe etter deg.",
+          "Le høyt av en vits som overhodet ikke var morsom.",
+          "Gi 3 forskjellige personer et genuint kompliment for skoene deres.",
+          "Prøv å overbevise noen om at i morgen er en rød-dag."
+        ]
+      },
+      "tabooCards": [
+        {
+          "target": "PIZZA",
+          "taboos": [
+            "Ost",
+            "Bunn",
+            "Italiensk",
+            "Stykke",
+            "Pepperoni"
+          ]
+        },
+        {
+          "target": "FLY",
+          "taboos": [
+            "Reise",
+            "Flyplass",
+            "Vinger",
+            "Pilot",
+            "Himmel"
+          ]
+        },
+        {
+          "target": "STRAND",
+          "taboos": [
+            "Sand",
+            "Hav",
+            "Sol",
+            "Bade",
+            "Ferie"
+          ]
+        },
+        {
+          "target": "KAFFE",
+          "taboos": [
+            "Drikke",
+            "Koffein",
+            "Morgen",
+            "Kopp",
+            "Varm"
+          ]
+        },
+        {
+          "target": "LEGE",
+          "taboos": [
+            "Sykehus",
+            "Syk",
+            "Medisin",
+            "Helse",
+            "Resept"
+          ]
+        }
+      ],
+      "triviaItems": [
+        {
+          "question": "Høyden på Mount Everest i meter",
+          "answer": 8848.0,
+          "unit": "m"
+        },
+        {
+          "question": "Antall bein i en voksen menneskekropp",
+          "answer": 206.0,
+          "unit": "bein"
+        },
+        {
+          "question": "Året da skipet Titanic sank",
+          "answer": 1912.0,
+          "unit": "år"
+        },
+        {
+          "question": "Antall tangenter på et standard piano",
+          "answer": 88.0,
+          "unit": "tangenter"
+        },
+        {
+          "question": "Antall selvstendige stater i Afrika",
+          "answer": 54.0,
+          "unit": "land"
+        },
+        {
+          "question": "Kokepunktet for rent vann i grader Celsius",
+          "answer": 100.0,
+          "unit": "°C"
+        },
+        {
+          "question": "Avstand fra jorden til månen i tusen km",
+          "answer": 384.0,
+          "unit": "tusen km"
+        },
+        {
+          "question": "Gjennomsnittlig hvilepuls for voksne",
+          "answer": 72.0,
+          "unit": "bpm"
+        }
+      ],
+      "rulePairs": [
+        {
+          "t": "Må ta på haken før du snakker",
+          "s": "Må ta på nesen før du snakker"
+        },
+        {
+          "t": "Må bare stille spørsmål",
+          "s": "Må bare snakke i 3-ords setninger"
+        },
+        {
+          "t": "Må snakke med utenlandsk dialekt eller aksent",
+          "s": "Må hviske annethvert ord"
+        },
+        {
+          "t": "Må si deg enig i alt forrige person sa",
+          "s": "Må si deg uenig i alt som sies"
+        }
+      ]
+    },
+    "ar": {
+      "wordCardGames": {
+        "g1": [
+          {
+            "w": "تفاحة",
+            "h": "فاكهة"
+          },
+          {
+            "w": "طائرة",
+            "h": "مواصلات"
+          },
+          {
+            "w": "بيتزا",
+            "h": "طعام"
+          },
+          {
+            "w": "جيتار",
+            "h": "آلة موسيقية"
+          },
+          {
+            "w": "كرة قدم",
+            "h": "رياضة"
+          },
+          {
+            "w": "فيل",
+            "h": "حيوان"
+          },
+          {
+            "w": "شاطئ",
+            "h": "إجازة"
+          },
+          {
+            "w": "طبيب",
+            "h": "مستشفى"
+          },
+          {
+            "w": "قهوة",
+            "h": "مشروب"
+          },
+          {
+            "w": "قلعة",
+            "h": "بناء"
+          },
+          {
+            "w": "رائد فضاء",
+            "h": "فضاء"
+          },
+          {
+            "w": "غواصة",
+            "h": "بحر"
+          },
+          {
+            "w": "دراجة",
+            "h": "مركبة"
+          },
+          {
+            "w": "سينما",
+            "h": "ترفيه"
+          },
+          {
+            "w": "صحراء",
+            "h": "طبيعة"
+          }
+        ],
+        "g2": [
+          {
+            "w": "مستشفى",
+            "h": "معاطف بيضاء وأسرّة"
+          },
+          {
+            "w": "مطار",
+            "h": "جوازات سفر ومدارج طائرات"
+          },
+          {
+            "w": "مدرسة",
+            "h": "فصول وسبورة وطباشير"
+          },
+          {
+            "w": "مطعم",
+            "h": "قوائم طعام ونوادل"
+          },
+          {
+            "w": "غواصة",
+            "h": "أعماق المحيط المغلقة"
+          },
+          {
+            "w": "فندق",
+            "h": "استقبال ومفاتيح غرف"
+          },
+          {
+            "w": "سينما",
+            "h": "فشار وشاشة عرض ضخمة"
+          },
+          {
+            "w": "محطة فضاء",
+            "h": "انعدام الجاذبية في المدار"
+          },
+          {
+            "w": "بنك",
+            "h": "خزائن حديدية وأموال"
+          },
+          {
+            "w": "مركز شرطة",
+            "h": "أصفاد وسيارات دورية"
+          },
+          {
+            "w": "شاطئ",
+            "h": "رمال ومظلات وأمواج"
+          },
+          {
+            "w": "نادي رياضي",
+            "h": "أثقال وأجهزة جري"
+          }
+        ],
+        "g3": [
+          {
+            "w": "السباحة",
+            "h": "رياضة"
+          },
+          {
+            "w": "العزف على الجيتار",
+            "h": "موسيقى"
+          },
+          {
+            "w": "بطل خارق",
+            "h": "شخصية"
+          },
+          {
+            "w": "كانغارو",
+            "h": "حيوان"
+          },
+          {
+            "w": "أكل سباغيتي",
+            "h": "نشاط"
+          },
+          {
+            "w": "تحميم كلب",
+            "h": "موقف"
+          },
+          {
+            "w": "تسلق الجبال",
+            "h": "رياضة"
+          },
+          {
+            "w": "قيادة حافلة",
+            "h": "مهنة"
+          },
+          {
+            "w": "رقص مايكل جاكسون",
+            "h": "رقص"
+          },
+          {
+            "w": "مصارعة السومو",
+            "h": "رياضة"
+          },
+          {
+            "w": "صيد السمك",
+            "h": "هواية"
+          },
+          {
+            "w": "صنع بيتزا",
+            "h": "طبخ"
+          }
+        ],
+        "g11": [
+          {
+            "w": "قطة",
+            "h": "كلب"
+          },
+          {
+            "w": "قهوة",
+            "h": "شاي"
+          },
+          {
+            "w": "سيارة",
+            "h": "دراجة"
+          },
+          {
+            "w": "صيف",
+            "h": "شتاء"
+          },
+          {
+            "w": "بيتزا",
+            "h": "برغر"
+          },
+          {
+            "w": "جيتار",
+            "h": "كمان"
+          },
+          {
+            "w": "شمس",
+            "h": "قمر"
+          },
+          {
+            "w": "كتاب",
+            "h": "كتاب إلكتروني"
+          }
+        ]
+      },
+      "stringListGames": {
+        "g4": [
+          "حيوانات",
+          "دول",
+          "أكلات",
+          "أفلام",
+          "مشاهير",
+          "ماركات",
+          "مدن",
+          "مهن",
+          "فواكه",
+          "رياضات",
+          "أدوات في المطبخ",
+          "ملابس"
+        ],
+        "g10": [
+          "ـين",
+          "ـون",
+          "ـات",
+          "الـ",
+          "استـ",
+          "تـ",
+          "مـ",
+          "ـية",
+          "ـان",
+          "ـهم"
+        ],
+        "g12": [
+          "طبيب",
+          "رائد فضاء",
+          "محقق",
+          "طباخ",
+          "قرصان",
+          "بطل خارق",
+          "نجم روك",
+          "طيار",
+          "ساحر",
+          "نينجا",
+          "عالم",
+          "رجل إطفاء"
+        ],
+        "g15": [
+          "اجعل شخصاً يضرب كفه بكفك (High-five) 3 مرات.",
+          "قل كلمة 'طبعاً' أو 'بصراحة' 5 مرات على الأقل أثناء الحديث.",
+          "تثاءب واجعل شخصين على الأقل يتثاءبان بعدك.",
+          "اضحك بصوت عالٍ على نكتة سخيفة أو غير مضحكة.",
+          "امتدح أحذية 3 أشخاص مختلفين خلال الجلسة.",
+          "اقنع شخصاً ما بأن الغد عطلة رسمية بدون أن يكتشف كذبك."
+        ]
+      },
+      "tabooCards": [
+        {
+          "target": "بيتزا",
+          "taboos": [
+            "جبن",
+            "عجينة",
+            "إيطالي",
+            "شريحة",
+            "صلصة"
+          ]
+        },
+        {
+          "target": "طائرة",
+          "taboos": [
+            "طيران",
+            "مطار",
+            "أجنحة",
+            "طيار",
+            "سماء"
+          ]
+        },
+        {
+          "target": "شاطئ",
+          "taboos": [
+            "رمل",
+            "بحر",
+            "شمس",
+            "سباحة",
+            "إجازة"
+          ]
+        },
+        {
+          "target": "قهوة",
+          "taboos": [
+            "شرب",
+            "كافيين",
+            "صباح",
+            "فنجان",
+            "ساخن"
+          ]
+        },
+        {
+          "target": "طبيب",
+          "taboos": [
+            "مستشفى",
+            "مريض",
+            "دواء",
+            "ممرضة",
+            "صحة"
+          ]
+        }
+      ],
+      "triviaItems": [
+        {
+          "question": "ارتفاع قمة إيفرست بالأمتار",
+          "answer": 8848.0,
+          "unit": "متر"
+        },
+        {
+          "question": "عدد العظام في جسم الإنسان البالغ",
+          "answer": 206.0,
+          "unit": "عظمة"
+        },
+        {
+          "question": "السنة التي غرقت فيها سفينة تيتانيك",
+          "answer": 1912.0,
+          "unit": "عام"
+        },
+        {
+          "question": "عدد مفاتيح البيانو القياسي",
+          "answer": 88.0,
+          "unit": "مفتاح"
+        },
+        {
+          "question": "عدد الدول في قارة أفريقيا",
+          "answer": 54.0,
+          "unit": "دولة"
+        },
+        {
+          "question": "درجة غليان الماء بالدرجة المئوية",
+          "answer": 100.0,
+          "unit": "°C"
+        },
+        {
+          "question": "المسافة من الأرض للقمر بآلاف الكيلومترات",
+          "answer": 384.0,
+          "unit": "ألف كم"
+        },
+        {
+          "question": "متوسط نبضات القلب في الدقيقة للإنسان البالغ",
+          "answer": 72.0,
+          "unit": "نبضة"
+        }
+      ],
+      "rulePairs": [
+        {
+          "t": "يجب لمس ذقنك قبل أن تبدأ بالكلام",
+          "s": "يجب لمس أنفك قبل أن تبدأ بالكلام"
+        },
+        {
+          "t": "يجب أن تتكلم بصيغة أسئلة فقط",
+          "s": "يجب أن تتكلم بجمل من 3 كلمات فقط"
+        },
+        {
+          "t": "يجب أن تتحدث بلهجة مختلفة",
+          "s": "يجب أن تهمس كل ثاني كلمة"
+        },
+        {
+          "t": "يجب أن توافق على كل كلمة يقولها الشخص السابق",
+          "s": "يجب أن تعترض على كل ما يقال"
+        }
+      ]
+    }
+  }
+}
