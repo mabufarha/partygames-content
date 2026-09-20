@@ -1,8 +1,6 @@
 {
-  "schemaVersion": 1,
-  "contentVersion": 1,
-  "contentHash": "8bdda09f279e6f468c238da83ce17946815bda2c67b25acfef1b1ba87bda512f",
-  "minAppVersion": "1.0.0",
+  "version": 1,
+  "hash": "66e821d4533a08455ca104332393f6b55e2aab54fb38423f310052f64b4d6ebf",
   "downloadUrl": "https://mabufarha.github.io/partygames-content/game_data_v1.json",
-  "payloadSize": 25377
+  "payloadSize": 13009
 }
